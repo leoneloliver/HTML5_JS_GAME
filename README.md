@@ -1,3 +1,7 @@
 # HTML5_JS_GAME
 
-http://codepen.io/leoneloliver/full/PWVoOL/
+Simple game with JS+Canvas
+
+[Demo here](http://codepen.io/leoneloliver/full/PWVoOL/) 
+
+
